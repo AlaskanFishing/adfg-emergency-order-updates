@@ -1,1 +1,226 @@
-[]
+[
+  {
+    "year": 2026,
+    "date": "03/31/26 Expires 12/31/26",
+    "area": "Kodiak",
+    "title": "Kodiak And Afognak Islands Rockfish Limits Modified",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4011",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO_Kodiak_Rockfish_Limits_Reduced.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "03/31/26 Expires 12/31/26",
+    "area": "Kodiak",
+    "title": "Afognak Island Lingcod Limits Reduced",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4009",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO_Afognak_Lingcod_Reduced.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "03/19/26 Expires 08/09/26",
+    "area": "Kodiak",
+    "title": "Chignik River Closed To Sport Fishing For King Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4004",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO_Chignik_Kings_Closure.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "03/19/26 Expires 12/31/26",
+    "area": "Southcentral",
+    "title": "Cook Inlet And North Gulf Coast Sport And Personal Use Razor Clam Permit Now Required",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4003",
+    "pdf_url": ""
+  },
+  {
+    "year": 2026,
+    "date": "03/04/26 Expires 09/15/26",
+    "area": "Anchorage\n            \n          \n          \n        \n          \n            \n              / Northern Kenai\n            \n          \n          \n        \n          \n            \n              / Southern Kenai\n            \n          \n          \n        \n          \n            \n              / Mat-Su\n            \n          \n          \n        \n          \n            \n              / North Gulf Coast \\ Res. Bay",
+    "title": "Rockfish Restrictions In North Gulf Coast And Cook Inlet",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4002",
+    "pdf_url": "https://www.adfg.alaska.gov/static/fishing/pdfs/sport/RockfishIdentification.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/26/26 Expires 09/15/26",
+    "area": "Prince William Sound",
+    "title": "Pot Limit And Season Reduced In The Prince William Sound Noncommercial Shrimp Fishery",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4001",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/2026 PWS Shrimp EO 2-SHR-06-19-26.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/26/26 Expires 08/15/26",
+    "area": "Northern Kenai\n            \n          \n          \n        \n          \n            \n              / Southern Kenai",
+    "title": "CORRECTED: Kasilof River King Salmon Regulations For 2026",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4000",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/CORRECTED_Kasilof EO 2026.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 06/24/26",
+    "area": "Northern Kenai",
+    "title": "Kasilof River Personal Use Gillnet Fishery Season Dates Reduced",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3980",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO Kasilof PU setnet season reduction 2026.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 06/19/26",
+    "area": "Northern Kenai",
+    "title": "Kenai River Early-Run King Salmon Sport Fishery Is Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3979",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO 2-KS-1-8-26 Kenai ER Kings Closed.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 08/15/26",
+    "area": "Northern Kenai",
+    "title": "Kenai River Late-Run King Salmon Sport Fishery Is Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3978",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO 2-KS-1-7-26 Kenai LR Kings Closed.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 12/31/26",
+    "area": "Mat-Su",
+    "title": "West Cook Inlet Fresh Waters Closed To King Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3977",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO 2-KS-2-6-26 West Cook Inlet closed_2026.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 09/15/26",
+    "area": "Southern Kenai",
+    "title": "King Salmon Restrictions In Cook Inlet Salt Waters",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3976",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO CI SW KIing 26.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 07/31/26",
+    "area": "Northern Kenai\n            \n          \n          \n        \n          \n            \n              / Southern Kenai",
+    "title": "Anchor River And Deep Creek Closed To All Sport Fishing Through July 15 And Gear Restricted July 16 Through July 31",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3975",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO AnchorDeep26.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 07/31/26",
+    "area": "Northern Kenai\n            \n          \n          \n        \n          \n            \n              / Southern Kenai",
+    "title": "Reduced Season And Bag Limit For Hatchery King Salmon, And Gear Restrictions In The Ninilchik River",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3974",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EONinilchik26.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 07/13/26",
+    "area": "Anchorage",
+    "title": "Eagle River Drainage Closed To King Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3973",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO 2-KS-2-2-26_EagleRiver_king_restrict_.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 09/15/26",
+    "area": "Kodiak",
+    "title": "King Salmon Restrictions In Gulf Of Alaska Salt Waters",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3988",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO KMA Saltwater King Salmon Reduced.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 09/15/26",
+    "area": "Kodiak",
+    "title": "King Salmon Restrictions In Gulf Of Alaska Salt Waters",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3987",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO APAIA Saltwater King Salmon Reduced.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 09/15/26",
+    "area": "Prince William Sound",
+    "title": "King Salmon Restrictions In Gulf Of Alaska Salt Waters",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3986",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO 2-KS-6-15-26_PWS_king_restrict.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 06/30/26",
+    "area": "Kodiak",
+    "title": "Westside Kodiak Salt Waters Closed To King Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3985",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO Westside Saltwater King Salmon Closure.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 07/25/26",
+    "area": "Kodiak",
+    "title": "Ayakulik And Karluk Rivers Closed To King Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3984",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO Karluk and Ayakulik Kings closed.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 07/31/26",
+    "area": "Anchorage",
+    "title": "Campbell Creek \nGear Restrictions And Catch-And-Release Only For Youth-Only King Salmon Fishery",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3972",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO 2-KS-2-1-26_Campbell_king_youth_cnr_.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 07/13/26",
+    "area": "Mat-Su",
+    "title": "Susitna And Little Susitna River Drainages Closed To King Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3983",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO 2-KS-2-12-26 Susitna Kings Closed.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 07/13/26",
+    "area": "Mat-Su",
+    "title": "Susitna And Little Susitna River Drainages Closed To King Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3982",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO 2-KS-2-11-26 Little Su closed.pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 08/15/26",
+    "area": "Northern Kenai",
+    "title": "Kasilof River King Salmon Regulations For 2026",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3981",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/Kasilof EO 2026(F).pdf"
+  },
+  {
+    "year": 2026,
+    "date": "02/09/26 Expires 12/31/26",
+    "area": "Southcentral",
+    "title": "2026 Cook Inlet King Salmon Run Forecasts",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3989",
+    "pdf_url": ""
+  },
+  {
+    "year": 2026,
+    "date": "02/03/26 Expired 02/13/26",
+    "area": "Southcentral",
+    "title": "Prince William Sound Shrimp Fisheries \nPublic Zoom Meeting",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3969",
+    "pdf_url": ""
+  },
+  {
+    "year": 2026,
+    "date": "01/29/26 Expires 12/31/26",
+    "area": "Bristol Bay",
+    "title": "Regulatory Changes For Bristol Bay Sport Fisheries",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3968",
+    "pdf_url": ""
+  },
+  {
+    "year": 2026,
+    "date": "01/05/26 Expired 02/01/26",
+    "area": "Statewide",
+    "title": "2026 Statewide Sport Fish Stocking Plan Open For Public Comment",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3964",
+    "pdf_url": ""
+  }
+]

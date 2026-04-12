@@ -1,1 +1,442 @@
-[]
+[
+  {
+    "year": 2021,
+    "date": "12/16/21",
+    "area": "Upper Copper Upper Susitna",
+    "title": "Alaska Board Of Fisheries Changes To The Subsistence, Personal Use, And Sport Fishing Regulations In The Upper Copper/Upper Susitna River Drainages",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3256",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "12/01/21",
+    "area": "Statewide",
+    "title": "2022 Statewide Sport Fish Stocking Plan Open For Public Comment",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3254",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "11/23/21 Expired 12/01/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Cooking Your Catch And \nNew “Beyond The Catch” Series Launch",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3252",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "11/22/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Ice Fishing Gear, Tips And Tactics",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3251",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "10/27/21 Expired 10/28/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Fishing Doesn’T Have To Be Scary",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3247",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "10/21/21",
+    "area": "Upper Copper Upper Susitna",
+    "title": "Ice House Registration Reminder",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3246",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "10/21/21",
+    "area": "Tanana",
+    "title": "Ice House Registration Reminder",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3245",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "10/20/21",
+    "area": "Statewide",
+    "title": "Alaska Department Of Fish And Game Will Begin Mailing Annual Sport Fishing Survey",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3244",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "10/01/21",
+    "area": "Upper Copper Upper Susitna",
+    "title": "Online Harvest Reporting Required For Chitina Personal Use Salmon Permits By October 15",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3241",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "09/27/21",
+    "area": "Statewide",
+    "title": "Ship Creek Fisheries Center Will Close To The Public",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3242",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "09/21/21",
+    "area": "Interior",
+    "title": "Online Fishing Forum: A Survey Of Sport Fisheries In Interior And Northern Alaska",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3239",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "09/02/21",
+    "area": "Statewide",
+    "title": "Photo Entries Sought For 2022 Sport Fishing Regulations Summary Photo Contest",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3234",
+    "pdf_url": "http://www.adfg.alaska.gov/static/fishing/pdfs/sport/model_release_adfg.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "08/24/21 Expired 12/31/21",
+    "area": "Tanana",
+    "title": "Tanana River Coho Salmon Sport Fishery Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3232",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO_3-SS-U-2-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "08/24/21 Expired 12/31/21",
+    "area": "Yukon",
+    "title": "Yukon River Coho Salmon Sport Fishery Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3231",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO_3-SS-Y-1-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "08/16/21 Expired 08/17/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Find Your Water",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3228",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "08/03/21 Expired 08/31/21",
+    "area": "Interior",
+    "title": "Copper River Personal Use Dip Net Salmon Fishing Schedule: August 9 – 31",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3218",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO_3-RS-I-10-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/29/21",
+    "area": "Tanana",
+    "title": "Chatanika River Personal Use Whitefish Spear Fishery Permit Lottery Application Period To Open",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3216",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "07/28/21 Expired 08/31/21",
+    "area": "Interior",
+    "title": "Copper River Personal Use Dip Net Salmon Fishing Schedule: Week Of August 2",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3214",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO_3-RS-I-09-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/21/21 Expired 08/31/21",
+    "area": "Interior",
+    "title": "Copper River Personal Use Dip Net Salmon Fishing Schedule: Week Of July 26",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3203",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO_3-RS-I-08-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/15/21 Expired 12/31/21",
+    "area": "Statewide",
+    "title": "Ruth Burnett Sport Fish Hatchery Tour Video To Premiere Online",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3196",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "07/14/21 Expired 08/31/21",
+    "area": "Interior",
+    "title": "Copper River Personal Use Dip Net Salmon Fishing Schedule: Week Of July 19",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3195",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO_3-RS-I-07-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/14/21",
+    "area": "Statewide",
+    "title": "Rod Loaner Program Will Be Reinstated At Select ADF&G Offices",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3193",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "07/07/21 Expired 08/31/21",
+    "area": "Interior",
+    "title": "Copper River Personal Use Dip Net Salmon Fishing Schedule: Week Of July 12",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3184",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO_3-RS-I-06-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/30/21 Expired 08/31/21",
+    "area": "Interior",
+    "title": "Copper River Personal Use Dip Net Salmon Fishing Schedule: Week Of July 5",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3176",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO_3-RS-I-05-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/29/21 Expired 12/31/21",
+    "area": "Kuskokwim",
+    "title": "Kuskokwim River Chum Salmon Sport Fishery Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3175",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO_3-CS-V-3-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/29/21 Expired 12/31/21",
+    "area": "Yukon",
+    "title": "Yukon River Chum Salmon Sport Fishery Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3172",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO 3-CS-Y-1-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/29/21 Expired 12/31/21",
+    "area": "Tanana",
+    "title": "Tanana River Chum Salmon Sport Fishery Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3173",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/3-CS-U-02-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/29/21",
+    "area": "Statewide",
+    "title": "Ship Creek Fisheries Center To Re-Open On A Limited Schedule; Tanana Valley Fisheries Center To Remain Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3171",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "06/23/21",
+    "area": "Upper Copper Upper Susitna",
+    "title": "Copper River King Salmon Sport Fisheries Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3167",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO 3-KS-I-06-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/23/21 Expired 08/31/21",
+    "area": "Interior",
+    "title": "Copper River Personal Use Dip Net Salmon Fishing Schedule: Week Of June 28",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3166",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO 3-RS-I-04-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/23/21 Expired 08/01/21",
+    "area": "Upper Copper Upper Susitna",
+    "title": "Copper River King Salmon Subsistence Fisheries Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3168",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO 3-KS-I-01-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/23/21 Expired 09/30/21",
+    "area": "Tanana",
+    "title": "Proposals Sought For The Fairbanks Streambank Habitat Rehabilitation & Protection Cost-Share",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3164",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "06/22/21 Expired 12/31/21",
+    "area": "Tanana",
+    "title": "Tanana River King Salmon Sport Fishery Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3160",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO_Tanana_King_Salmon_3-KS-U-5-21_FINAL.docx.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/16/21 Expired 08/11/21",
+    "area": "Upper Copper Upper Susitna",
+    "title": "Upper Copper River King Salmon \nAnnual Limit Reduced",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3146",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO 3-KS-I-04-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/16/21 Expired 08/31/21",
+    "area": "Interior",
+    "title": "Copper River Personal Use Dip Net Salmon Fishing Schedule: Week Of June 21",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3147",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO 3-RS-I-03-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/09/21 Expired 07/25/21",
+    "area": "Kuskokwim",
+    "title": "Kuskokwim River King Salmon Sport Fishery Remains Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3135",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO-3-KS-V-03-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/09/21 Expired 08/31/21",
+    "area": "Interior",
+    "title": "Copper River Personal Use Dip Net Salmon Fishing Schedule: Week Of June 14",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3138",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO 3-RS-I-02-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/03/21 Expired 08/31/21",
+    "area": "Interior",
+    "title": "Copper River Personal Use Dip Net Salmon Fishing Schedule: June 10-13",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3134",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/3-RS-I-01-21 Chitina 210603 EO.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/28/21 Expired 06/02/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Beach Fishing For Halibut On Alaska’S Kenai Peninsula",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3130",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "05/12/21 Expired 10/14/21",
+    "area": "Tanana",
+    "title": "Minto Flats Northern Pike Sport Fishing Bag Limit Reduced",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3128",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO_3-NP-U-01-211.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/05/21 Expired 12/31/21",
+    "area": "Yukon",
+    "title": "Yukon River King Salmon Sport Fishery Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3125",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO 3-KS-Y-2-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/05/21",
+    "area": "Interior",
+    "title": "2021 Copper River Personal Use Dip Net Salmon Fishery Preseason Schedule",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3126",
+    "pdf_url": "http://www.adfg.alaska.gov/static/applications/dcfnewsrelease/1240680532.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "04/15/21 Expired 04/28/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Fishing For Hooligan",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3110",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "04/15/21 Expired 05/12/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Get Your Fishing License And Permits",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3111",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "04/12/21 Expired 04/14/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Fishing For Sheefish In The Yukon River",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3108",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "04/06/21 Expired 04/16/21",
+    "area": "Statewide",
+    "title": "Public Notice- Proposed Change To The Statewide Stocking Plan Public Comment Period To Open",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3107",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "04/01/21 Expired 06/11/21",
+    "area": "Kuskokwim",
+    "title": "Kuskokwim River Drainage Closed To Sport Fishing For King Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3106",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R3/EO-3-KS-01-21 KGMA_River.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "03/30/21 Expired 03/31/22",
+    "area": "Tanana",
+    "title": "Piledriver Slough And Moose Creek Catch-And-Release Only",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3105",
+    "pdf_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/PDFs/northern/2021northern_sfregs_stockedwaters.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "03/08/21 Expired 03/10/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Pike Fishing 101",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3102",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "03/04/21",
+    "area": "Statewide",
+    "title": "Invasive Zebra Mussels Hitchhike To AK On Aquarium Moss Balls",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3100",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "03/01/21 Expired 03/03/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Kachemak Bay Winter King Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3092",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "02/22/21 Expired 02/24/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: What’S Going On With East Cook Inlet Razor Clams",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3090",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "02/16/21 Expired 02/18/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Kodiak Winter King Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3089",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "01/25/21 Expired 03/31/22",
+    "area": "Tanana",
+    "title": "Sport Fishing Closed At Kimberly Lake,\nBathing Beauty Pond And Bear, Moose, And Polaris Lakes Catch-And-Release Only",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3079",
+    "pdf_url": "http://www.adfg.alaska.gov/static/regulations/fishregulations/PDFs/northern/2020northern_sfregs_stockedwaters.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "12/01/20",
+    "area": "Statewide",
+    "title": "2021 Statewide Sport Fish Stocking Plan Open For Public Comment",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3061",
+    "pdf_url": ""
+  }
+]

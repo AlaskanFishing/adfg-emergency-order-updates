@@ -1,1 +1,626 @@
-[]
+[
+  {
+    "year": 2021,
+    "date": "12/29/21 Expired 12/31/22",
+    "area": "Juneau",
+    "title": "Juneau Area Section 11-A Remains Closed To Sport And Personal Use Pot Shrimp Fishing In 2022",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3262",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/1-SHR-E-02-22.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "12/22/21 Expired 12/31/22",
+    "area": "Sitka",
+    "title": "Hoonah Sound Subsistence And Sport Shrimp Fisheries Remain Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3259",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "12/01/21",
+    "area": "Statewide",
+    "title": "2022 Statewide Sport Fish Stocking Plan Open For Public Comment",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3254",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "11/23/21 Expired 12/01/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Cooking Your Catch And \nNew “Beyond The Catch” Series Launch",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3252",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "11/22/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Ice Fishing Gear, Tips And Tactics",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3251",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "10/27/21 Expired 10/28/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Fishing Doesn’T Have To Be Scary",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3247",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "10/20/21",
+    "area": "Statewide",
+    "title": "Alaska Department Of Fish And Game Will Begin Mailing Annual Sport Fishing Survey",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3244",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "09/27/21",
+    "area": "Statewide",
+    "title": "Ship Creek Fisheries Center Will Close To The Public",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3242",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "09/20/21 Expired 12/31/21",
+    "area": "Sitka",
+    "title": "Sport Fishing For Coho Salmon Closed In Deep Inlet",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3238",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/25_EO-01-SS-D-25-21(f) (002).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "09/13/21 Expired 12/31/21",
+    "area": "Sitka",
+    "title": "Sport Fishing Closed In Bear Cove",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3236",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/24.00_EO-01-SS-D-24.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "09/02/21",
+    "area": "Statewide",
+    "title": "Photo Entries Sought For 2022 Sport Fishing Regulations Summary Photo Contest",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3234",
+    "pdf_url": "http://www.adfg.alaska.gov/static/fishing/pdfs/sport/model_release_adfg.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "08/16/21 Expired 08/17/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Find Your Water",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3228",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "08/03/21 Expired 12/31/21",
+    "area": "Sitka",
+    "title": "Klag Bay Subsistence And Sport Sockeye Salmon Fishery Area Closure",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3220",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/23.00_EO-1-RS-D-23.00-21(f) (002).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/26/21 Expired 12/31/21",
+    "area": "Southeast",
+    "title": "Revised Sport Fishing Regulations For King Salmon In Southeast Alaska And The Juneau Area For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3211",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/22.00_EO-01-KS-R-22.00-21(F)3.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/26/21 Expired 12/31/21",
+    "area": "Southeast",
+    "title": "Revised Sport Fishing Regulations For King Salmon In Southeast Alaska And The Haines/Skagway Area For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3209",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/22.00_EO-01-KS-R-22.00-21(F)2.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/26/21 Expired 12/31/21",
+    "area": "Southeast",
+    "title": "Revised Sport Fishing Regulations For King Salmon In Southeast Alaska And The Petersburg And Wrangell Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3208",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/22.00_EO-01-KS-R-22.00-21(F)1.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/26/21 Expired 12/31/21",
+    "area": "Southeast",
+    "title": "Revised Sport Fishing Regulations For King Salmon In Southeast Alaska And Ketchikan Area For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3207",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/22.00_EO-01-KS-R-22.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/26/21 Expired 12/31/21",
+    "area": "Southeast",
+    "title": "Revised Southeast Alaska Regional King Salmon Sport Fishing Regulations For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3210",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/21.00_EO-01-KS-R-21.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/26/21 Expired 12/31/21",
+    "area": "Southeast",
+    "title": "Revised Southeast Alaska Regional King Salmon Report Fishing Regulations For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3213",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/21.00_EO-01-KS-R-21.00-21(F)2.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/26/21 Expired 12/31/21",
+    "area": "Southeast",
+    "title": "Revised Southeast Alaska Regional King Salmon Sport Fishing Regulations For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3212",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/21.00_EO-01-KS-R-21.00-21(F)1.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/19/21 Expired 12/31/21",
+    "area": "Yakutat",
+    "title": "Situk River King Salmon Sport Fishery Reopens Below Weir July 20",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3198",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/20.00_EO-01-KS-H-20.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/15/21 Expired 12/31/21",
+    "area": "Statewide",
+    "title": "Ruth Burnett Sport Fish Hatchery Tour Video To Premiere Online",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3196",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "07/14/21",
+    "area": "Statewide",
+    "title": "Rod Loaner Program Will Be Reinstated At Select ADF&G Offices",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3193",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "07/12/21 Expired 12/31/21",
+    "area": "Yakutat",
+    "title": "Situk River Sockeye Sport Fishery Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3188",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/19.00_EO-01-RS-H-19.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "07/08/21 Expired 12/31/21",
+    "area": "Sitka",
+    "title": "Redoubt Bay And Lake Subsistence And Sport Sockeye Salmon Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3186",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/18.00_EO-01-RS-D-18.00-21(f).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/29/21",
+    "area": "Statewide",
+    "title": "Ship Creek Fisheries Center To Re-Open On A Limited Schedule; Tanana Valley Fisheries Center To Remain Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3171",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "06/17/21",
+    "area": "Southeast",
+    "title": "REVISED SPORT FISHING REGULATIONS FOR KING SALMON IN SOUTHEAST ALASKA AND KETCHIKAN AREA FOR 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3158",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/17.00_EO-01-KS-R-17.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/17/21",
+    "area": "Southeast",
+    "title": "REVISED SOUTHEAST ALASKA REGIONAL KING SALMON SPORT FISHING REGULATIONS FOR 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3152",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/16.00_EO-01-KS-R-16.00-21(F)5.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/17/21",
+    "area": "Southeast",
+    "title": "REVISED SOUTHEAST ALASKA REGIONAL KING SALMON SPORT FISHING REGULATIONS FOR 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3153",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/16.00_EO-01-KS-R-16.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/17/21",
+    "area": "Southeast",
+    "title": "REVISED SOUTHEAST ALASKA REGIONAL KING SALMON SPORT FISHING REGULATIONS FOR 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3154",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/16.00_EO-01-KS-R-16.00-21(F)1.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/17/21 Expired 03/31/22",
+    "area": "Southeast",
+    "title": "REVISED SOUTHEAST ALASKA REGIONAL KING SALMON SPORT FISHING REGULATIONS FOR 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3155",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/16.00_EO-01-KS-R-16.00-21(F)4.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/17/21 Expired 03/31/22",
+    "area": "Southeast",
+    "title": "REVISED SOUTHEAST ALASKA REGIONAL KING SALMON SPORT FISHING REGULATIONS FOR 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3156",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/16.00_EO-01-KS-R-16.00-21(F)3.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/17/21",
+    "area": "Southeast",
+    "title": "REVISED SOUTHEAST ALASKA REGIONAL KING SALMON SPORT FISHING REGULATIONS FOR 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3157",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/16.00_EO-01-KS-R-16.00-21(F)2.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/11/21 Expired 06/12/21",
+    "area": "Sitka",
+    "title": "Regulations For Swan Lake Trout Derby",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3140",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/15.00-EO-01-RT-D-15.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "06/09/21 Expired 12/31/21",
+    "area": "Ketchikan",
+    "title": "Ketchikan Creek Opens To Sport Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3137",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/14.00_EO-01-KS-A-14.00-21(F)_date corrected.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/28/21 Expired 06/02/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Beach Fishing For Halibut On Alaska’S Kenai Peninsula",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3130",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "05/18/21 Expired 06/14/21",
+    "area": "Sitka",
+    "title": "Sport Fishing For King Salmon (Chinook Salmon) Opens Near Hidden Falls",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3129",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/13.00-EO-01-KS-D-13.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/03/21 Expired 08/14/21",
+    "area": "Ketchikan",
+    "title": "Sport Fishing For King Salmon Opens In Ketchikan Hatchery Areas",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3121",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/09.00_EO-01-KS-A-09.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/03/21 Expired 08/31/21",
+    "area": "Juneau",
+    "title": "Sport Fishing For King Salmon Opens In Hatchery Areas Near Juneau",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3124",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/11.00-EO_01-KS-E-11.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/03/21 Expired 11/30/21",
+    "area": "Southeast",
+    "title": "SOUTHEAST ALASKA 2021 LINGCOD SPORT FISHING REGULATIONS FOR THE YAKUTAT AREA",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3118",
+    "pdf_url": "http://www.adfg.alaska.gov/static/regulations/fishregulations/PDFs/southeast/2021se_sfregs_complete.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/03/21 Expired 11/30/21",
+    "area": "Southeast",
+    "title": "Southeast Alaska 2021 Lingcod Sport Fishing Regulations For The Northern Southeast Outside Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3119",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/10.00-EO-01-LC-R-10.00-21(F)6.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/03/21 Expired 11/30/21",
+    "area": "Southeast",
+    "title": "Southeast Alaska 2021 Lingcod Sport Fishing Regulations For The Southern Southeast Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3117",
+    "pdf_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/PDFs/southeast/2021se_sfregs_complete.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/03/21 Expired 11/30/21",
+    "area": "Southeast",
+    "title": "Southeast Alaska 2021 Lingcod Sport Fishing Regulations For The Southern Southeast Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3116",
+    "pdf_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/PDFs/southeast/2021se_sfregs_complete.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/03/21 Expired 11/30/21",
+    "area": "Southeast",
+    "title": "Southeast Alaska 2021 Lingcod Sport Fishing Regulations For The Northern Southeast Inside Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3115",
+    "pdf_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/PDFs/southeast/2021se_sfregs_complete.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/03/21 Expired 11/30/21",
+    "area": "Southeast",
+    "title": "Southeast Alaska 2021 Lingcod Sport Fishing Regulations For The Northern Southeast Inside And Southern Southeast Areas",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3114",
+    "pdf_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/PDFs/southeast/2021se_sfregs_complete.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/03/21 Expired 11/30/21",
+    "area": "Southeast",
+    "title": "Southeast Alaska 2021 Lingcod Sport Fishing Regulations For The Northern Southeast Inside Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3113",
+    "pdf_url": "https://www.adfg.alaska.gov/static/regulations/fishregulations/PDFs/southeast/2021se_sfregs_complete.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/03/21 Expired 08/14/21",
+    "area": "Ketchikan",
+    "title": "Hatchery King Salmon Limits Increased In Herring Bay Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3120",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/09.00_EO-01-KS-A-09.00-21(F)1.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "05/03/21 Expired 07/31/21",
+    "area": "Petersburg",
+    "title": "Sport Fishing For King Salmon Opens In Hatchery Areas Near Petersburg And Wrangell",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3123",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/12.00_EO-01-KS-C-12.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "04/19/21 Expired 09/12/21",
+    "area": "Southeast",
+    "title": "Filleting And De-Heading Of Lingcod, King And Coho Salmon, And Slope Rockfish Prohibited In Southeast Alaska Sport Fisheries",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3112",
+    "pdf_url": "http://www.adfg.alaska.gov/static/home/pdfs/KeepDontKeepRockfish.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "04/15/21 Expired 12/31/21",
+    "area": "Yakutat",
+    "title": "Situk River Closed To Sport Fishing For King Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3109",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/1-KS-H-7-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "04/15/21 Expired 04/28/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Fishing For Hooligan",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3110",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "04/15/21 Expired 05/12/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Get Your Fishing License And Permits",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3111",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "04/12/21 Expired 04/14/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Fishing For Sheefish In The Yukon River",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3108",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "04/06/21 Expired 04/16/21",
+    "area": "Statewide",
+    "title": "Public Notice- Proposed Change To The Statewide Stocking Plan Public Comment Period To Open",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3107",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "03/25/21 Expired 06/30/21",
+    "area": "Juneau",
+    "title": "Sport Fishing Closed In Peterson Creek",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3104",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/EO.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "03/08/21 Expired 03/10/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Pike Fishing 101",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3102",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "03/04/21",
+    "area": "Statewide",
+    "title": "Invasive Zebra Mussels Hitchhike To AK On Aquarium Moss Balls",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3100",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "03/02/21 Expired 03/31/22",
+    "area": "Yakutat",
+    "title": "Southeast Alaska Regional King Salmon Sport Fishing Regulations For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3093",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/04.00_EO-01-KS-R-04.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "03/02/21 Expired 03/31/22",
+    "area": "Haines/Skagway",
+    "title": "Sport Fishing Regulations For King Salmon In Southeast Alaska And The Haines/Skagway Area For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3096",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/05.00_EO-01-KS-R-05.00-21(F).pdf"
+  },
+  {
+    "year": 2021,
+    "date": "03/02/21 Expired 03/31/22",
+    "area": "Juneau",
+    "title": "Sport Fishing Regulations For King Salmon In Southeast Alaska And The Juneau Area For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3097",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/05.00_EO-01-KS-R-05.00-21(F)1.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "03/02/21 Expired 03/31/22",
+    "area": "Petersburg",
+    "title": "Sport Fishing Regulations For King Salmon In Southeast Alaska And The Petersburg/Wrangell Area For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3098",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/05.00_EO-01-KS-R-05.00-21(F)2.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "03/02/21 Expired 03/31/22",
+    "area": "Ketchikan",
+    "title": "Sport Fishing Regulations For King Salmon In Southeast Alaska And The Ketchikan Area For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3099",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/05.00_EO-01-KS-R-05.00-21(F)3.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "03/02/21 Expired 03/31/22",
+    "area": "Sitka",
+    "title": "Southeast Alaska Regional King Salmon Sport Fishing Regulations For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3094",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/04.00_EO-01-KS-R-04.00-21(F)1.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "03/02/21 Expired 03/31/22",
+    "area": "Prince of Wales Island",
+    "title": "Southeast Alaska Regional King Salmon Sport Fishing Regulations For 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3095",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2021/R1/04.00_EO-01-KS-R-04.00-21(F)2.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "03/01/21 Expired 03/03/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Kachemak Bay Winter King Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3092",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "02/22/21 Expired 02/24/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: What’S Going On With East Cook Inlet Razor Clams",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3090",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "02/16/21 Expired 02/18/21",
+    "area": "Statewide",
+    "title": "Online Fishing Forum: Kodiak Winter King Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3089",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "01/06/21 Expired 01/31/22",
+    "area": "Prince of Wales Island",
+    "title": "Sport Fishing For Slope Rockfish Remains Open In Southeast Alaska",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3076",
+    "pdf_url": "http://www.adfg.alaska.gov/static/home/pdfs/KeepDontKeepRockfish.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "01/06/21 Expired 01/31/22",
+    "area": "Sitka",
+    "title": "Sport Fishing For Slope Rockfish Remains Open In Southeast Alaska",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3073",
+    "pdf_url": "http://www.adfg.alaska.gov/static/home/pdfs/KeepDontKeepRockfish.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "01/06/21 Expired 01/31/22",
+    "area": "Haines/Skagway",
+    "title": "Sport Fishing For Slope Rockfish Remains Open In Southeast Alaska",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3071",
+    "pdf_url": "http://www.adfg.alaska.gov/static/home/pdfs/KeepDontKeepRockfish.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "01/06/21 Expired 01/31/22",
+    "area": "Juneau",
+    "title": "Sport Fishing For Slope Rockfish Remains Open In Southeast Alaska",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3072",
+    "pdf_url": "http://www.adfg.alaska.gov/static/home/pdfs/KeepDontKeepRockfish.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "01/06/21 Expired 01/31/22",
+    "area": "Ketchikan",
+    "title": "Sport Fishing For Slope Rockfish Remains Open In Southeast Alaska",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3075",
+    "pdf_url": "http://www.adfg.alaska.gov/static/home/pdfs/KeepDontKeepRockfish.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "01/06/21 Expired 01/31/22",
+    "area": "Petersburg",
+    "title": "Sport Fishing For Slope Rockfish Remains Open In Southeast Alaska",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3074",
+    "pdf_url": "http://www.adfg.alaska.gov/static/home/pdfs/KeepDontKeepRockfish.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "01/06/21 Expired 01/31/22",
+    "area": "Yakutat",
+    "title": "Sport Fishing For Slope Rockfish Remains Open In Southeast Alaska",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3070",
+    "pdf_url": "http://www.adfg.alaska.gov/static/home/pdfs/KeepDontKeepRockfish.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "12/29/20 Expired 12/31/21",
+    "area": "Sitka",
+    "title": "Hoonah Sound Subsistence And Sport Shrimp Fisheries Remain Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3069",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2020/R1/02_EO-1-SHR-D-02-21(F)_TT.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "12/28/20 Expired 12/31/21",
+    "area": "Juneau",
+    "title": "Juneau Area Section 11-A Remains Closed To Sport And Personal Use Pot Shrimp Fishing In 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3068",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2020/R1/1-SHR_E-01-21.pdf"
+  },
+  {
+    "year": 2021,
+    "date": "12/14/20",
+    "area": "Southeast",
+    "title": "Saltwater Charter Operators And Guides In Southeast Alaska Required To Use Electronic Logbook (ELogBook) In 2021",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3062",
+    "pdf_url": ""
+  },
+  {
+    "year": 2021,
+    "date": "12/01/20",
+    "area": "Statewide",
+    "title": "2021 Statewide Sport Fish Stocking Plan Open For Public Comment",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2021&NRID=3061",
+    "pdf_url": ""
+  }
+]

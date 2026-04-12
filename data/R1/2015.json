@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "year": 2015,
+    "date": "12/29/15",
+    "area": "Juneau",
+    "title": "TENAKEE INLET REMAINS CLOSED TO SPORT AND PERSONAL USE SHRIMP FISHING IN 2016",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2015&NRID=2192",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2016/R1/NR-1-SHR-E-02-16.pdf"
+  },
+  {
+    "year": 2015,
+    "date": "12/29/15",
+    "area": "Juneau",
+    "title": "JUNEAU AREA SECTION 11-A REMAINS CLOSED TO SPORT AND PERSONAL USE SHRIMP FISHING IN 2016",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2015&NRID=2191",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2016/R1/NR-1-SHR-E-01-16.pdf"
+  },
+  {
+    "year": 2015,
+    "date": "12/21/15",
+    "area": "Statewide",
+    "title": "SPORT FISH STOCKING PLAN AVAILABLE FOR COMMENT",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2015&NRID=2185",
+    "pdf_url": ""
+  },
+  {
+    "year": 2015,
+    "date": "12/17/15",
+    "area": "Southeast",
+    "title": "CABIN SPORT FISHING SURVEY",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2015&NRID=2183",
+    "pdf_url": ""
+  },
+  {
+    "year": 2015,
+    "date": "10/28/15",
+    "area": "Statewide",
+    "title": "Public Meetings Scheduled To Solicit Input On Sport Fish Guide Registration, Logbook Program, And House Bill 41",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2015&NRID=2181",
+    "pdf_url": ""
+  },
+  {
+    "year": 2015,
+    "date": "10/06/15 Expired 12/31/15",
+    "area": "Ketchikan",
+    "title": "SPORT FISHING OPENED IN HERRING COVE CREEK AND HERRING BAY SPECIAL HARVEST AREA",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2015&NRID=2179",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2015/R1/1-SS-A-25-15(F).pdf"
+  },
+  {
+    "year": 2015,
+    "date": "09/23/15 Expired 11/30/15",
+    "area": "Ketchikan",
+    "title": "SPORT FISHING CLOSED IN HERRING COVE CREEK AND HERRING BAY SPECIAL HARVEST AREA",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2015&NRID=2175",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2015/R1/1-SS-A-24-15(F).pdf"
+  },
+  {
+    "year": 2015,
+    "date": "09/23/15 Expired 12/31/15",
+    "area": "Sitka",
+    "title": "SPORT FISHING FOR COHO CLOSED IN DEEP INLET",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2015&NRID=2174",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2015/R1/1-SS-D-23-15(F).pdf"
+  },
+  {
+    "year": 2015,
+    "date": "08/13/15 Expired 08/28/15",
+    "area": "Juneau",
+    "title": "DIPAC HATCHERY AREA CLOSED TO KING SALMON FISHING",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2015&NRID=2167",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2015/R1/1-KS-E-22-15.pdf"
+  },
+  {
+    "year": 2015,
+    "date": "08/11/15 Expired 12/31/15",
+    "area": "Sitka",
+    "title": "SPORT FISHING CLOSED IN BEAR COVE",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2015&NRID=2165",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2015/R1/1-SS-D-21-15(F).pdf"
+  },
+  {
+    "year": 2015,
+    "date": "07/30/15 Expired 09/14/15",
+    "area": "Haines/Skagway",
+    "title": "PULLEN CREEK AND POND OPEN TO KING SALMON FISHING",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2015&NRID=2159",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2015/R1/1-KS-F-20-15(F).pdf"
+  }
+]

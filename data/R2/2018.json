@@ -1,1 +1,834 @@
-[]
+[
+  {
+    "year": 2018,
+    "date": "12/21/18 Expired 12/31/19",
+    "area": "Northern Kenai",
+    "title": "Retention Of All Fish Species Prohibited From East And West Mackey, Sevena, Union, And Derks Lakes",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2688",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-NP-1-04-19 No Retention of All Species Mackey lakes_TT.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "12/21/18 Expired 12/31/19",
+    "area": "Northern Kenai",
+    "title": "Retention Of Arctic Char/Dolly Varden Prohibited At Stormy Lake In 2019",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2687",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-DV-1-03-19 Retention of Arctic Char and Dolly Varden Prohibited_TT.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "12/21/18 Expired 12/31/19",
+    "area": "Northern Kenai",
+    "title": "Eastside Cook Inlet Beaches Remain Closed To Personal Use Clamming",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2686",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO-2-RCL-7-02-19 PU Razor Closure Draft_TT1.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "12/21/18 Expired 12/31/19",
+    "area": "Southern Kenai",
+    "title": "Eastside Cook Inlet Beaches Remain Closed To Personal Use Clamming",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2684",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO-2-RCL-7-02-19 PU Razor Closure Draft_TT.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "12/21/18 Expired 12/31/19",
+    "area": "Northern Kenai",
+    "title": "Eastside Cook Inlet Beaches Remain Closed To Sport Clamming",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2685",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO-2-RCL-7-01-19_Sport Razor Closure_Draft_TT1.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "12/21/18 Expired 12/31/19",
+    "area": "Southern Kenai",
+    "title": "Eastside Cook Inlet Beaches Remain Closed To Sport Clamming",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2683",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO-2-RCL-7-01-19_Sport Razor Closure_Draft_TT.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "12/07/18 Expired 12/12/18",
+    "area": "Anchorage\n            \n          \n          \n        \n          \n            \n              / Mat-Su",
+    "title": "Intermediate Hardwater Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2681",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "11/21/18",
+    "area": "Mat-Su\n            \n          \n          \n        \n          \n            \n              / Anchorage",
+    "title": "Ship Creek Fisheries Center Winter Weekend Closure",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2678",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "11/07/18",
+    "area": "Anchorage",
+    "title": "An Introduction To Ice Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2677",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "10/18/18 Expired 10/25/18",
+    "area": "Anchorage",
+    "title": "ADF&G To Host “Spooky Tails” At The William Jack Hernandez Sport Fish Hatchery In Anchorage",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2676",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "10/11/18",
+    "area": "Southcentral",
+    "title": "2018 Southcentral Seasonal Summaries Available",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2674",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "10/11/18 Expired 11/30/18",
+    "area": "Statewide",
+    "title": "ADF&G To Mail Annual Sport Fishing Harvest Survey",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2673",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "10/10/18 Expired 12/31/18",
+    "area": "Statewide",
+    "title": "ADF&G Surveys Anglers About Regulation Complexities",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2672",
+    "pdf_url": "http://www.adfg.alaska.gov/static/fishing/PDFs/sport/Survey_Report-2018-9-19.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "10/04/18",
+    "area": "Anchorage",
+    "title": "Identification Confirmed Of Non-Native Bass Caught In Sand Lake",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2671",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "10/03/18 Expired 10/12/18",
+    "area": "Northern Kenai",
+    "title": "Tote Road Area Invasive Pike Eradication Project Begins",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2669",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "09/27/18",
+    "area": "Northern Kenai",
+    "title": "Anglers Report Tagged Rainbow Trout On The Kenai River",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2667",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "09/25/18 Expired 10/04/18",
+    "area": "Northern Kenai\n            \n          \n          \n        \n          \n            \n              / Southern Kenai\n            \n          \n          \n        \n          \n            \n              / North Gulf Coast \\ Res. Bay",
+    "title": "Salmon In The Classroom Egg Takes Scheduled",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2666",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "09/21/18 Expired 12/31/18",
+    "area": "Kodiak",
+    "title": "Pasagshak River Coho Salmon Bag Limit Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2665",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO_Pasagshak Coho.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "09/20/18",
+    "area": "Statewide",
+    "title": "Entries Sought For 2019 Sport Fishing Regulations Summary Photo Contest",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2664",
+    "pdf_url": "http://www.adfg.alaska.gov/static/fishing/pdfs/sport/model_release_adfg.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "09/19/18",
+    "area": "Statewide",
+    "title": "New ADF&G Videos Show How To Fish For Coho Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2663",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "09/19/18 Expired 02/28/19",
+    "area": "Southcentral",
+    "title": "Permits Now Available For Cook Inlet And North Gulf Coast Tanner Crab Fishery",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2662",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "09/13/18 Expired 10/15/18",
+    "area": "Prince William Sound",
+    "title": "Prince William Sound Sport And Subsistence Shrimp Season Closes September 15",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2660",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "09/06/18 Expired 09/09/18",
+    "area": "North Gulf Coast \\ Res. Bay",
+    "title": "Youth-Only Fishing At Seward Lagoon This Weekend, September 7-9",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2658",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "09/05/18",
+    "area": "Statewide",
+    "title": "Non-Native Bass Caught In Anchorage Lake",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2657",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "08/27/18 Expired 09/30/18",
+    "area": "Southern Kenai\n            \n          \n          \n        \n          \n            \n              / Northern Kenai",
+    "title": "Applications Sought For The 2019 Kenai Peninsula Habitat Restoration & Protection Cost Share Program",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2655",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "08/21/18 Expired 12/31/18",
+    "area": "Northern Kenai",
+    "title": "Kenai River Reopened To Sockeye Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2654",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO-2-RS-1-58-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "08/16/18 Expired 08/18/18",
+    "area": "Mat-Su",
+    "title": "Youth-Only Coho Salmon Fishing Day At The Eklutna Tailrace, Saturday, August 18",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2653",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "08/14/18 Expired 12/31/18",
+    "area": "Mat-Su",
+    "title": "Susitna River Coho Salmon Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2650",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO2-SS-2-57-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "08/14/18 Expired 12/31/18",
+    "area": "Anchorage",
+    "title": "Ship Creek Coho Salmon Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2649",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO2-SS-2-56-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "08/13/18 Expired 09/30/18",
+    "area": "Mat-Su",
+    "title": "Applications Sought For The 2019 Mat-Su Valley Habitat Restoration & Protection Cost-Share Program",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2647",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "08/08/18 Expired 12/31/18",
+    "area": "Mat-Su",
+    "title": "Cottonwood And Wasilla Creeks Coho Salmon Limits And Days Liberalized",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2645",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-SS-2-55-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "08/08/18 Expired 12/31/18",
+    "area": "Mat-Su",
+    "title": "Fish Creek Coho Salmon Limits Liberalized",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2644",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO2-SS-2-54-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "08/08/18 Expired 12/31/18",
+    "area": "Southern Kenai",
+    "title": "Nick Dudiak Fishing Lagoon Opens To Snagging",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2643",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-SS-7-53-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "08/08/18 Expired 12/31/18",
+    "area": "Southcentral",
+    "title": "ADF&G Reminds Dipnetters & Setnetters To Report \nTheir 2018 Upper Cook Inlet Personal Use Salmon Harvest",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2642",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "08/07/18 Expired 12/31/18",
+    "area": "Mat-Su",
+    "title": "Fish Creek Open 7 Days Per Week For Sport Fishing And Sockeye Salmon Limits Are Liberalized",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2641",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-SS-2-52-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "08/07/18 Expired 12/31/18",
+    "area": "Mat-Su",
+    "title": "Little Susitna River Coho Salmon Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2640",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-SS-2-51-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "08/07/18",
+    "area": "Statewide",
+    "title": "Eklutna Tailrace Voted The Nation’S Top Mom-Approved Fishing Location",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2639",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "08/03/18 Expired 12/31/18",
+    "area": "Northern Kenai",
+    "title": "Kasilof Sockeye Salmon Bag And Possession Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2638",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO2-RS-1-50-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "08/03/18 Expired 08/04/18",
+    "area": "Southern Kenai",
+    "title": "Nick Dudiak Fishing Lagoon Youth-Only Fishery On August 4",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2637",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "08/01/18 Expired 12/31/18",
+    "area": "Northern Kenai",
+    "title": "Kenai River Closed To Sockeye Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2635",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO-2-RS-1-49-18 Kenai sockeye close_TT.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "08/01/18 Expired 08/05/18",
+    "area": "Mat-Su",
+    "title": "Fish Creek Youth-Only Fishery On August 4 And 5",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2634",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "07/31/18 Expired 12/31/18",
+    "area": "Mat-Su",
+    "title": "Larson Creek Sockeye Salmon Sport Fishing Limit Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2633",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-2-48-18 Larson sockeye limit increased_final.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/30/18 Expired 12/31/18",
+    "area": "Kodiak",
+    "title": "Saltery Cove Sockeye Salmon Bag Limits Restored",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2632",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-4-47-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/26/18 Expired 12/31/18",
+    "area": "Northern Kenai",
+    "title": "Kenai River Sockeye Salmon Bag Limit To One Fish",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2630",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-1-46-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/26/18 Expired 07/31/18",
+    "area": "Northern Kenai",
+    "title": "Kenai River Personal Use Dip Net Fishery To Close Monday",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2629",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-1-45-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/23/18 Expired 07/31/18",
+    "area": "Mat-Su",
+    "title": "Fish Creek Personal Use Dipnet Fishery To Open 6 A.M. July 24, 2018",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2625",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-2-44-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/18/18 Expired 12/31/18",
+    "area": "Bristol Bay",
+    "title": "Naknek River Sockeye Salmon Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2622",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-5-43-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/18/18 Expired 12/31/18",
+    "area": "Bristol Bay",
+    "title": "Alagnak River Sockeye Salmon Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2621",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-5-42-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/16/18 Expired 07/31/18",
+    "area": "Northern Kenai",
+    "title": "Kasilof River King Salmon Limited To Catch-And-Release",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2616",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-1-41-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/16/18 Expired 07/31/18",
+    "area": "Northern Kenai",
+    "title": "Kenai River King Salmon Limited To Catch-And-Release Only",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2615",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-1-40-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/16/18 Expired 12/31/18",
+    "area": "Bristol Bay",
+    "title": "Nushagak-Mulchatna Drainage Sockeye Salmon Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2614",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-5-39-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/13/18 Expired 12/31/18",
+    "area": "Bristol Bay",
+    "title": "Sockeye Salmon Restrictions Removed In The Kvichak River/Lake Iliamna Drainage",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2612",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-5-38-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/13/18 Expired 07/31/18",
+    "area": "Southern Kenai",
+    "title": "Lower Cook Inlet Roadside Stream Gear Restrictions",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2611",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-7-37-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/13/18 Expired 07/31/18",
+    "area": "Southern Kenai",
+    "title": "Lower Cook Inlet Marine Conservation Zone Closures",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2610",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-7-36-181.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/10/18 Expired 12/31/18",
+    "area": "Kodiak",
+    "title": "Saltery Cove Sockeye Salmon Bag Limits Reduced",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2606",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-4-35-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/10/18 Expired 12/31/18",
+    "area": "Kodiak",
+    "title": "Pasagshak Drainage Closed To Sport Fishing For Sockeye Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2605",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-4-34-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/10/18 Expired 08/09/18",
+    "area": "Kodiak",
+    "title": "Chignik River King Salmon Sport Fishery Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2604",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-4-33-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/10/18 Expired 12/31/18",
+    "area": "Bristol Bay",
+    "title": "Sockeye Salmon Limits Reduced In The Kvichak River/Lake Iliamna Drainage And Closed In Certain Areas",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2603",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-5-32-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/09/18 Expired 07/15/18",
+    "area": "Prince William Sound",
+    "title": "Fleming Spit Lagoon Opens To Snagging Of King Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2602",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-6-31-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/06/18 Expired 12/31/18",
+    "area": "Prince William Sound",
+    "title": "Coghill River Sockeye Salmon Bag Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2598",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-6-30-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/05/18 Expired 07/31/18",
+    "area": "Northern Kenai",
+    "title": "Kenai River Personal Use Dip Net Fishery To Open July 10 With No Retention Of King Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2597",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-1-29-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/03/18 Expired 12/31/18",
+    "area": "Bristol Bay",
+    "title": "Wood River Drainage Sockeye Salmon Bag Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2596",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-5-28-18 final.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "07/02/18 Expired 07/14/18",
+    "area": "Northern Kenai",
+    "title": "Russian River & Upper Kenai River Sockeye Salmon Bag Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2594",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-1-27-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/29/18",
+    "area": "Anchorage",
+    "title": "Ship Creek Closed To All Sport Fishing Through July 13",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2593",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO2-KS-2-26-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/21/18 Expired 07/31/18",
+    "area": "Northern Kenai",
+    "title": "Kenai River Sport Fishery Starting July Off With No Bait",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2589",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO2-KS-1-25-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/20/18 Expired 06/30/18",
+    "area": "Mat-Su",
+    "title": "Yentna Subsistence Fishery Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2587",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-2-24-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/20/18 Expired 07/13/18",
+    "area": "Mat-Su",
+    "title": "Little Susitna River King Salmon Fishing Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2585",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-2-23-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/20/18 Expired 07/13/18",
+    "area": "Mat-Su",
+    "title": "Susitna River Drainages Closed To King Salmon Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2584",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-2-22-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/20/18 Expired 06/24/18",
+    "area": "Anchorage",
+    "title": "Campbell Creek Youth-Only King Salmon Fishery On June 23 And 24",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2588",
+    "pdf_url": "https://www.adfg.alaska.gov/static/license/sportlicense/pdf/sf_harvest_record_card.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/19/18",
+    "area": "Prince William Sound",
+    "title": "Rockfish Deepwater Release Mechanisms Available In Valdez On Thursday, June 21, 2018",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2583",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "06/18/18 Expired 07/14/18",
+    "area": "Northern Kenai",
+    "title": "Russian River Sanctuary Opens Early For Sport Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2582",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-1-21-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/18/18 Expired 07/31/18",
+    "area": "Northern Kenai",
+    "title": "Kenai River Closed To Sport Fishing For Early Run King Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2581",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO-2-KS-1-20-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/14/18 Expired 07/31/18",
+    "area": "North Gulf Coast \\ Res. Bay",
+    "title": "Resurrection Bay Fresh Water Sockeye Salmon Bag Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2578",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-8-19-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/14/18 Expired 07/31/18",
+    "area": "North Gulf Coast \\ Res. Bay",
+    "title": "Resurrection Bay Salt Water Sockeye Salmon Bag Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2577",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-8-18-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/14/18 Expired 12/31/18",
+    "area": "Kodiak",
+    "title": "Afognak River Drainage Closed To Sport Fishing For Sockeye Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2576",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-4-17-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/14/18 Expired 12/31/18",
+    "area": "Kodiak",
+    "title": "Buskin River Drainage Closed To Sport Fishing For Sockeye Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2575",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-RS-4-16-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/13/18 Expired 07/13/18",
+    "area": "Mat-Su",
+    "title": "Little Susitna River Closed To Retention Of King Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2572",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO2-KS-2-15-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/11/18 Expired 06/30/18",
+    "area": "Northern Kenai",
+    "title": "Early-Run King Salmon Sport Fishery Restrictions On The Kasilof River",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2568",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO-2-KS-1-14-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/11/18 Expired 07/15/18",
+    "area": "Northern Kenai",
+    "title": "Kenai River King Salmon Limited To Catch-And-Release",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2567",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO2-KS-1-13-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "06/05/18",
+    "area": "Southern Kenai",
+    "title": "The 2018 Ninilchik River Youth-Only Fishery Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2564",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "05/31/18 Expired 07/15/18",
+    "area": "Southern Kenai",
+    "title": "King Salmon Fishing Restrictions In Effect For The Marine Waters In Lower Cook Inlet",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2562",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO-2-KS-7-12-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "05/31/18 Expired 07/15/18",
+    "area": "Southern Kenai",
+    "title": "The Anchor And Ninilchik Rivers And Deep Creek Drainages Closed To Sport Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2561",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO-2-KS-7-11-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "05/29/18 Expired 12/31/18",
+    "area": "Southcentral",
+    "title": "Regulation Summary Booklet Correction For Eagle River",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2560",
+    "pdf_url": "http://www.adfg.alaska.gov/static/applications/web/nocache/regulations/fishregulations/PDFs/southcentral/2018sc_sfregs_complete.pdf1B318FFA8366DE4CD36FB1146328A88D/2018sc_sfregs_complete.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "05/03/18 Expired 05/10/18",
+    "area": "Southern Kenai\n            \n          \n          \n        \n          \n            \n              / Northern Kenai",
+    "title": "Kenai Peninsula Borough School District Salmon Celebration Scheduled For May 10",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2554",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "04/16/18 Expired 05/18/18",
+    "area": "Northern Kenai",
+    "title": "Public Comment Period Begins For Tote Road Pike Lake Restoration",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2542",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "04/11/18 Expired 04/27/18",
+    "area": "Statewide",
+    "title": "ADF&G Proposes Amendment To The 2018 Statewide Stocking Plan",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2540",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "04/05/18 Expired 04/11/18",
+    "area": "Anchorage",
+    "title": "Fishing For King Salmon In Ship Creek",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2539",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "03/21/18",
+    "area": "Prince William Sound",
+    "title": "Summary Of Sport Fish Regulation Changes From Board Of Fisheries Miscellaneous Shellfish Meeting",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2531",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "03/13/18 Expired 07/13/18",
+    "area": "Mat-Su",
+    "title": "2018 King Salmon Sport Fishing Catch-And-Release Only \nFor Deshka And Yentna Rivers And Remaining Susitna River Drainage Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2529",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/2-KS-2-10-18_Susitna_Chinook_NonRet.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "03/13/18 Expired 07/13/18",
+    "area": "Mat-Su",
+    "title": "2018 King Salmon Sport Fishing \nRestrictions For Little Susitna River",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2528",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/2-KS-2-09-18_Little_Su_Chinook.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "03/06/18 Expired 03/14/18",
+    "area": "Mat-Su\n            \n          \n          \n        \n          \n            \n              / Prince William Sound\n            \n          \n          \n        \n          \n            \n              / Anchorage",
+    "title": "Wild Alaska Shrimp: How To Target ‘Em In Prince William Sound",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2527",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "03/05/18",
+    "area": "Northern Kenai",
+    "title": "2018 Outlook For Kenai River Early And Late Run King Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2526",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "03/01/18 Expired 08/01/18",
+    "area": "Kodiak",
+    "title": "Monashka Creek And Monashka Bay Closed To Sport Fishing For King Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2525",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-4-08-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "03/01/18 Expired 07/25/18",
+    "area": "Kodiak",
+    "title": "Karluk River Closed To Sport Fishing For King Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2524",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-4-07-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "03/01/18 Expired 07/25/18",
+    "area": "Kodiak",
+    "title": "Ayakulik River King Salmon Sport Fishery Catch-And-Release Only",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2523",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-KS-4-06-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "02/15/18 Expired 09/15/18",
+    "area": "Prince William Sound",
+    "title": "Number Of Pots Reduced In The 2018 Prince William Sound \nNoncommercial Shrimp Pot Fishery",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2522",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2018/R2/EO 2-SHR-6-05-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "02/05/18",
+    "area": "Northern Kenai",
+    "title": "Public Meeting On The Removal Of Invasive Northern Pike And Rehabilitation Of Tote Road Lakes Near Soldotna",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2520",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "01/03/18",
+    "area": "Anchorage\n            \n          \n          \n        \n          \n            \n              / Mat-Su",
+    "title": "Under Ice: An Introduction To Ice Fishing",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2518",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "12/29/17 Expired 12/31/18",
+    "area": "Northern Kenai",
+    "title": "Retention Of Arctic Char/Dolly Varden Prohibited At Stormy Lake In 2018",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2517",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2017/R2/EO 2-DV-1-04-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "12/29/17 Expired 12/31/18",
+    "area": "Northern Kenai",
+    "title": "Retention Of All Species Of Fish Prohibited From East And West Mackey, Sevena, Union, And Derks Lakes",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2516",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2017/R2/EO 2-NP-1-03-18.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "12/28/17",
+    "area": "Prince William Sound",
+    "title": "New Sport Fishing Regulations Adopted For Prince William Sound",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2515",
+    "pdf_url": "http://www.adfg.alaska.gov/static/regulations/regprocess/fisheriesboard/pdfs/2017-2018/proposals/238.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "12/27/17 Expired 01/30/18",
+    "area": "Statewide",
+    "title": "2018 Statewide Sport Fish Stocking Plan Public Comment Period",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2514",
+    "pdf_url": ""
+  },
+  {
+    "year": 2018,
+    "date": "12/22/17 Expired 12/31/18",
+    "area": "Northern Kenai\n            \n          \n          \n        \n          \n            \n              / Southern Kenai",
+    "title": "Eastside Cook Inlet Beaches Remain Closed To Recreational Clamming",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2510",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2017/R2/EO-2-RCL-7-02-18_Sport Razor Closure_Final.pdf"
+  },
+  {
+    "year": 2018,
+    "date": "12/22/17 Expired 12/31/18",
+    "area": "Southern Kenai\n            \n          \n          \n        \n          \n            \n              / Northern Kenai",
+    "title": "Eastside Cook Inlet Beaches Remain Closed To Personal Use Clamming",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2018&NRID=2509",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2017/R2/EO-2-RCL-7-01-18 PU Razor Closure_Final.pdf"
+  }
+]

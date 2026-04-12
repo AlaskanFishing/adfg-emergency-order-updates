@@ -1,1 +1,354 @@
-[]
+[
+  {
+    "year": 2008,
+    "date": "11/24/08",
+    "area": "Anchorage",
+    "title": "Liberalized Bag Limits For Sand Lake",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=1023",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-R-2-29-08_Sand Lake.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "11/24/08",
+    "area": "Statewide",
+    "title": "Sport Fishing Regulation Booklet Youth Cover Photo Contest",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=1024",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "11/05/08",
+    "area": "Anchorage",
+    "title": "Public Meetings In Anchorage And Palmer To Discuss Sport Fish Guide Services Board Draft Language",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=1022",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "11/03/08",
+    "area": "Kodiak",
+    "title": "Public Meetings In Kodiak To Discuss Sport Fish Guide Services Board Draft Language",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=1021",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "09/12/08",
+    "area": "Anchorage",
+    "title": "Anchorage School District Classroom Salmon Egg-Takes Scheduled For September 22 - 27",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=1012",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "08/04/08",
+    "area": "Northern Kenai",
+    "title": "Kenai River Sockeye Salmon Limit Reduced",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=998",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-1-25-08_Kenai.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "08/01/08",
+    "area": "Southern Kenai",
+    "title": "Lower Kenai River Coho Sampling Project",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=997",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "07/30/08",
+    "area": "Northern Kenai",
+    "title": "Lower Kenai River Closed To Fishing For Sockeye Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=994",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-1-24-08_kenai_sport_close.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "07/30/08",
+    "area": "Southcentral",
+    "title": "Restoration Of Two Anchorage And Kenai Area Lakes",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=995",
+    "pdf_url": "http://www.sf.adfg.state.ak.us/Statewide/InvasiveSpecies/PDFs/CheneyLakeEA.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "07/29/08",
+    "area": "Southern Kenai",
+    "title": "Youth Only Fishing Day At The Homer Spit, Saturday August 2",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=992",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "07/16/08",
+    "area": "Southern Kenai",
+    "title": "Kasilof River Dipnetting Area Expanded Effective Thursday, July 17",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=985",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-1-23-08_Kasilof_EO_PU_7'08_Final.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "07/16/08",
+    "area": "Southern Kenai",
+    "title": "Kasilof River Sockeye Salmon Limits Increased Effective Thursday, July 17",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=986",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-1-22-08_Kasilof_EO_Sport_7'08_Final.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "07/15/08",
+    "area": "Bristol Bay",
+    "title": "Alagnak River Drainage Sockeye Salmon Sport Fishing Daily Bag And Possession Limit Increase",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=984",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-5-21-08_AlagSock.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "07/15/08",
+    "area": "Bristol Bay",
+    "title": "Naknek River Drainage Sockeye Salmon Sport Fishing Daily Bag And Possession Limit Increase",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=983",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-5-20-08_NakSockeye.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "07/15/08",
+    "area": "Kodiak",
+    "title": "Saltery Cove Drainage Sockeye Salmon Bag And Possession Limit Increases",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=981",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-4-19-08_saltrysock.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "07/15/08",
+    "area": "Kodiak",
+    "title": "Chignik River King Salmon Sport Fishery Bag Limit And Bait Restrictions",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=980",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-KS-4-18-08_chignik.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "07/09/08",
+    "area": "Kodiak",
+    "title": "Ayakulik River Sockeye Salmon Sport Fishery Bag And Possession Limit Reduced",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=974",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-4-17-08_ayasockeye_reduc.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "07/09/08",
+    "area": "Kodiak",
+    "title": "Ayakulik River King Salmon Sport Fishery Closes Effective July 14, 2008",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=973",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-KS-4-16-08_ayakingclose.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "07/08/08",
+    "area": "Southcentral",
+    "title": "Seward Area Youth-Only Fishery, July 11 To July 13, 2008",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=972",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "07/07/08",
+    "area": "Northern Kenai",
+    "title": "Two-Stroke Motors Prohibited In The Kenai River Personal Use Dip Net Fishery",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=970",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "07/03/08",
+    "area": "Statewide",
+    "title": "Partnership To Increase Resident Sport Fishing License Sales Announced",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=969",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "07/01/08",
+    "area": "Southern Kenai",
+    "title": "English Bay River And Port Graham To Reopen To Sockeye Salmon Sport Fishing Tuesday, July 1",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=964",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-7-15-08 Port Graham.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "06/27/08",
+    "area": "Kodiak",
+    "title": "Karluk River King Salmon Sport Fishery Closes",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=960",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-KS-4-14-08_karluk_king_close.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "06/27/08",
+    "area": "Anchorage",
+    "title": "Youth Only King Salmon Fishery Open On Campbell Creek This Weekend",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=959",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "06/24/08",
+    "area": "Northern Kenai",
+    "title": "Russian River Sanctuary Opens To Fishing 8:00 A.M., Thursday, June 26",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=957",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-1-13-08_Sanctuary.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "06/24/08",
+    "area": "Southern Kenai",
+    "title": "Noncommercial Tanner Crab Fishing To Open July 15 In Waters Of Cook Inlet And The North Gulf Coast",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=958",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "06/19/08",
+    "area": "Mat-Su",
+    "title": "Deshka River Closes To Sport Fishing For King Salmon Effective 11:00 P.M. Friday, June 20, 2008",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=955",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-KS-2-12-08_Deshka_Closed.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "06/17/08",
+    "area": "Kodiak",
+    "title": "Ayakulik River King Salmon Sport Fishery Is Restricted To Non-Retention",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=953",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-KS-4-11-08_ayakulikking.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "06/17/08",
+    "area": "Kodiak",
+    "title": "Karluk River Sockeye Salmon Sport Fishery Restricted To Non-Retention",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=952",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-4-10-08_Karluk.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "06/17/08",
+    "area": "Kodiak",
+    "title": "Buskin River Drainage Closes To Sport Fishing For Sockeye Salmon",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=951",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-4-09-08_Buskin.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "06/12/08",
+    "area": "Mat-Su",
+    "title": "Bait Is Prohibited In Deshka River Fishery Starting June 14, 2008",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=950",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_ 2-KS-2-08-08 DeshkaBait.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "06/05/08",
+    "area": "Southern Kenai",
+    "title": "Youth Only Fishing Day At The Homer Spit, Saturday June 7",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=946",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "05/30/08",
+    "area": "Northern Kenai",
+    "title": "Bait Allowed For Kenai River Early Run King Salmon Fishing Beginning June 1",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=937",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-KS-1-07-08_Kenai_King_Bait.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "05/30/08",
+    "area": "Southern Kenai",
+    "title": "Port Graham/English Bay Area Closed To Retention Of Sockeye Salmon June 1 – July 31",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=936",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RS-7-06-08 Port Graham.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "05/30/08",
+    "area": "Southcentral",
+    "title": "IPHC Issues New Rules Regarding Filleting Of Halibut At Sea",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=938",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "05/01/08",
+    "area": "Southern Kenai",
+    "title": "Noncommercial Tanner Crab Fishing To Open July 15 In Kachemak Bay",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=927",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "04/29/08",
+    "area": "Anchorage",
+    "title": "Alaska Dept. Of Fish And Game Schedules Anchorage Area Salmon Celebrations",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=919",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "04/18/08",
+    "area": "Anchorage",
+    "title": "Non Retention For Rainbow Trout In The Sixmile Creek Drainage On Elmendorf AFB",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=915",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RT-2-05-08_Sixmile.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "03/24/08",
+    "area": "Anchorage",
+    "title": "Non Retention Of Rainbow Trout In Campbell And Chester Creeks",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=911",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-RT-2-04-08_chesterandcampbell.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "03/21/08",
+    "area": "Southcentral",
+    "title": "Salt Water Sport Fishing Guides And Crew Prohibited From Retaining Fish In 2008 In Southcentral Alaska",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=909",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-R-3-03-08_guides.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "03/10/08",
+    "area": "Northern Kenai",
+    "title": "New 2008 Kenai River Sport Fishing Regulation",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=907",
+    "pdf_url": ""
+  },
+  {
+    "year": 2008,
+    "date": "02/27/08",
+    "area": "Kodiak",
+    "title": "Ayakulik River King Salmon Daily/Possession And Annual Limits Lowered",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=906",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-ks-4-02-08.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "02/27/08",
+    "area": "Kodiak",
+    "title": "Karluk River King Salmon Sport Fishery Restricted To Non-Retention",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=905",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2008/R2/EO_2-ks-4-01-08.pdf"
+  },
+  {
+    "year": 2008,
+    "date": "02/26/08",
+    "area": "Northern Kenai",
+    "title": "New 2008 Sport Fishing Regulations For The Kenai And Kasilof Rivers",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2008&NRID=902",
+    "pdf_url": ""
+  }
+]

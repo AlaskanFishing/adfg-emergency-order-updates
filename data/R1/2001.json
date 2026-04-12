@@ -1,1 +1,186 @@
-[]
+[
+  {
+    "year": 2001,
+    "date": "04/07/26 Expires 06/30/26",
+    "area": "Juneau",
+    "title": "Sport Fishing Closed In Peterson Creek",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4021",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/1-SH-E-10-26.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "04/06/26 Expires 11/30/26",
+    "area": "Juneau",
+    "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations For The Juneau/Glacier Bay Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4015",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/1-LC-R-09-261.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "04/06/26 Expires 11/30/26",
+    "area": "Ketchikan",
+    "title": "CORRECTED- Southeast Alaska 2026 Lingcod Sport Fishing Regulations For The Ketchikan Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4016",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/1-LC-R-09-262.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "04/06/26 Expires 11/30/26",
+    "area": "Petersburg",
+    "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations For The Petersburg Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4017",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/1-LC-R-09-263.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "04/06/26 Expires 11/30/26",
+    "area": "Prince of Wales Island",
+    "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations For The Prince Of Wales Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4018",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/1-LC-R-09-264.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "04/06/26 Expires 11/30/26",
+    "area": "Sitka",
+    "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations For The Sitka Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4019",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/1-LC-R-09-265.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "04/06/26 Expires 11/30/26",
+    "area": "Yakutat",
+    "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations For The Yakutat Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4020",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/1-LC-R-09-266.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "04/06/26 Expires 11/30/26",
+    "area": "Haines/Skagway",
+    "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations For The Haines And Skagway Area",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4014",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/1-LC-R-09-26.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "03/31/26 Expires 04/30/27",
+    "area": "Haines/Skagway",
+    "title": "Sport Fishing Regulations For King Salmon In Southeast Alaska And The Haines/Skagway Area For 2026",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4008",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/01-KS-R-08-26.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "03/31/26 Expires 04/30/27",
+    "area": "Juneau",
+    "title": "Sport Fishing Regulations For King Salmon In Southeast Alaska And The Juneau/Glacier Bay Area For 2026",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4010",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/01-KS-R-08-261.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "03/31/26 Expires 04/30/27",
+    "area": "Petersburg",
+    "title": "Sport Fishing Regulations For King Salmon In Southeast Alaska And The Petersburg/Wrangell Area For 2026",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4012",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/01-KS-R-08-262.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "03/31/26 Expires 04/30/27",
+    "area": "Ketchikan",
+    "title": "Sport Fishing Regulations For King Salmon In Southeast Alaska And The Ketchikan Area For 2026",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4013",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/01-KS-R-08-263.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "03/31/26 Expires 04/30/27",
+    "area": "Yakutat",
+    "title": "Southeast Alaska Regional King Salmon Sport Fishing Regulations For 2026",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4005",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/01-KS-R-07-26.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "03/31/26 Expires 04/30/27",
+    "area": "Sitka",
+    "title": "Southeast Alaska Regional King Salmon Sport Fishing Regulations For 2026",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4006",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/01-KS-R-07-261.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "03/31/26 Expires 04/30/27",
+    "area": "Prince of Wales Island",
+    "title": "Southeast Alaska Regional King Salmon Sport Fishing Regulations For 2026",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=4007",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/01-KS-R-07-262.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "02/26/26",
+    "area": "Southeast",
+    "title": "Southeast Alaska Sport, Personal Use And Subsistence Shrimp Fisheries Closure",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=3999",
+    "pdf_url": ""
+  },
+  {
+    "year": 2001,
+    "date": "02/19/26 Expires 08/15/26",
+    "area": "Petersburg",
+    "title": "Sport Fishing Regulations For Wrangell Narrows/Blind Slough Terminal Harvest Area In 2026",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=3998",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/06_EO-01-KS-C-06 (F).pdf"
+  },
+  {
+    "year": 2001,
+    "date": "01/27/26 Expires 12/31/26",
+    "area": "Sitka",
+    "title": "CORRECTED: Sitka Area Pelagic Rockfish Limit Reduced In The Sitka Area In 2026",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=3967",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/1-RF-D-05-26.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "01/26/26 Expires 12/31/26",
+    "area": "Southeast",
+    "title": "Southeast Alaska 2026 Demersal Shelf Rockfish Sport Fishing Season Reduced For Nonresident Anglers",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=3966",
+    "pdf_url": "https://www.adfg.alaska.gov/static/home/pdfs/KeepDontKeepRockfish.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "01/06/26 Expires 12/31/26",
+    "area": "Prince of Wales Island",
+    "title": "Kasaan Bay And Skowl Arm Sport Shrimp Pot Fisheries Remain Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=3965",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R1/1-SHR-B-03-26.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "01/05/26 Expired 02/01/26",
+    "area": "Statewide",
+    "title": "2026 Statewide Sport Fish Stocking Plan Open For Public Comment",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=3964",
+    "pdf_url": ""
+  },
+  {
+    "year": 2001,
+    "date": "12/17/25 Expires 12/31/26",
+    "area": "Juneau",
+    "title": "Section 11-A And Tenakee Inlet Personal Use And Sport Shrimp Pot Fisheries Remain Closed",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=3963",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2025/R1/1-SHR-E-02-26.pdf"
+  },
+  {
+    "year": 2001,
+    "date": "12/15/25 Expires 12/31/26",
+    "area": "Sitka",
+    "title": "Secions 13-B And 13-C Subsistence And Sport Shrimp Fisheries Closure",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2001&NRID=3962",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2025/R1/01-EO-1-SHR-D-01-26(F).pdf"
+  }
+]
