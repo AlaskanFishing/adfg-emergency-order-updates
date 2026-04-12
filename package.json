@@ -1,0 +1,21 @@
+{
+  "name": "adfg-emergency-order-updates",
+  "version": "1.0.0",
+  "description": "Daily tracking and historic mass-scraping pipeline for Alaskan ADF&G Emergency Orders.",
+  "main": "index.js",
+  "scripts": {
+    "scrape:daily": "tsx scripts/worker-historic-eonr.ts --delta",
+    "scrape:full": "tsx scripts/worker-historic-eonr.ts --full"
+  },
+  "keywords": [],
+  "author": "AlaskanFishing",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.5"
+  }
+}
