@@ -1,6 +1,14 @@
 [
   {
     "year": 2026,
+    "date": "06/23/26 Expires 07/14/26",
+    "area": "Northern Kenai",
+    "title": "Russian River & Upper Kenai River Sockeye Salmon Bag Limits Increased",
+    "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4055",
+    "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO Russian River sockeye limit increase to 6.pdf"
+  },
+  {
+    "year": 2026,
     "date": "06/22/26 Expires 07/31/26",
     "area": "Bristol Bay",
     "title": "Nushagak-Mulchatna Drainage Bait Prohibition",
@@ -18,7 +26,7 @@
   {
     "year": 2026,
     "date": "06/16/26 Expires 07/15/26",
-    "area": "Southcentral",
+    "area": "Northern Kenai",
     "title": "Russian River Sanctuary Opens Early For Sport Fishing",
     "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4048",
     "pdf_url": "https://www.adfg.alaska.gov/Static-sf/EONR/PDFs/2026/R2/EO Russian River Sanctuary Open Early.pdf"
@@ -49,8 +57,8 @@
   },
   {
     "year": 2026,
-    "date": "06/03/26 Expires 06/23/26",
-    "area": "Southcentral",
+    "date": "06/03/26 Expired 06/23/26",
+    "area": "Prince William Sound",
     "title": "Prince William Sound Sport And Subsistence Fishery Season Closure And Harvest Reporting Reminder",
     "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4039",
     "pdf_url": ""
